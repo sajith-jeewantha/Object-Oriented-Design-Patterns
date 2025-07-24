@@ -16,5 +16,6 @@ Software Development is like putting together a puzzle. `Object-oriented program
 * Observer Design Pattern
 * State Design Pattern
 * Command Design Pattern
+* Decorator Design Pattern
 ---
 My linkedIn [Profile](https://www.linkedin.com/in/sajith-jeewantha-76bb90254/).
