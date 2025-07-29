@@ -1,7 +1,5 @@
 package sj.patterns.decorator;
 
-import java.util.List;
-
 interface Beverage {
     double cost();
 
