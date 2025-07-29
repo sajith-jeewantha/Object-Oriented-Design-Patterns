@@ -2,6 +2,8 @@
 
 > Source: [GeeksforGeeks - Composite Design Pattern in Java](https://www.geeksforgeeks.org/java/composite-design-pattern-in-java/)
 
+![Composite UML Diagram](https://media.geeksforgeeks.org/wp-content/uploads/20240213162314/composite-design-pattern-iin-java.webp)
+
 ## What is the Composite Design Pattern?
 
 The **Composite Pattern** is a structural design pattern that allows you to compose objects into tree structures to represent **part-whole hierarchies**. It lets clients treat individual objects and compositions of objects uniformly.
