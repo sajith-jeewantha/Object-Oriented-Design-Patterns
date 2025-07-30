@@ -65,6 +65,7 @@ This repository covers the most important and widely used design patterns in sof
 - 🔸 **Proxy** – Control access to another object, often used for lazy initialization, logging, etc.
 - 🔸 **Decorator** – Add responsibilities to objects dynamically without altering their structure.
 - 🔸 **Composite** – Compose objects into tree structures to represent part-whole hierarchies.
+- 🔸 **Bridge** – Decouple an abstraction from its implementation so that the two can vary independently.
 
 ### 🔁 Behavioral Patterns
 - 🔹 **Strategy** – Define a family of algorithms and make them interchangeable.
