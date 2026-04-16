@@ -3,7 +3,6 @@ package sj.patterns.observer;
 import java.util.ArrayList;
 
 interface Observer {
-
     public abstract void update(int x);
 }
 

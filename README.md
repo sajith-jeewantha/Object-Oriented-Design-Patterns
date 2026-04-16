@@ -37,7 +37,7 @@
 
 [//]: # (---)
 
-[//]: # (My linkedIn [Profile]&#40;https://www.linkedin.com/in/sajith-jeewantha-76bb90254/&#41;.)
+[//]: # (My linkedIn [Profile]&#40;https://www.linkedin.com/in/sajith-jeewantha)
 
 # Object-Oriented Design Patterns
 
@@ -88,7 +88,7 @@ This repository covers the most important and widely used design patterns in sof
 
 ## 🔗 Connect with Me
 
-📇 [LinkedIn Profile](https://www.linkedin.com/in/sajith-jeewantha-76bb90254/)
+📇 [LinkedIn Profile](https://www.linkedin.com/in/sajith-jeewantha)
 
 ---
 
